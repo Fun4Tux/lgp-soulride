@@ -28,11 +28,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/soulride/">Demo for Soul Ride</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/soulride/">Demo for Soul Ride</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/soulride/">Updates for Soul Ride</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/soulride/">Updates for Soul Ride</a></td>
 </tr>
 <tr>
 <td>Condition</td>
