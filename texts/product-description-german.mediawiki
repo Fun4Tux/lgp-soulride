@@ -1,0 +1,82 @@
+==Preview==
+<p>Soulride, das extreme Snowboard Game l&auml;sst Sie ihre Grenzen auf rasanten Pisten ausloten!</p>
+
+==Text==
+<p><strong><strong><strong><strong>Das Spiel</strong></strong></strong><br /></strong></p>
+<p>Soulride, das extreme Snowboard Game l&auml;sst Sie ihre Grenzen auf rasanten Pisten ausloten. Besuchen Sie einige der h&auml;rtesten und spektakul&auml;rsten Snowboard Regionen der Welt! Basierend auf realen topografischen Satelitedaten versetzt Soulride Sie in eine erstaunlich reaslistische Bergwelt von hunderten von Quadratkilometern. Die 3D Grafik l&auml;sst Sie die Pisten von Mammoth Mountain, Tuckerman Ravine, Jay Peak, Beckenridge und Stratton nach belieben erforschen. Vergessen Sie lineare Rennpisten, Soulride bietet einen virtuelle Bergwelt ohne Limits. Mit etwas &Uuml;bung werden Sie bald die wildesten Spr&uuml;nge und Stunts beherrschen, der virtuelle Videorecorder zeichnet dabei jede ihrer Aktionen auf.</p>
+<p>Egal ob Freestyler oder Freerider, mit Soulride findet jeder seinen Stall.<br /><br /></p>
+<hr />
+<p><strong><strong><strong><strong>Allgemeine Informationen zum Spiel</strong></strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe<br /></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/soulride/">Demo f&uuml;r Soul Ride</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/soulride/">Updates f&uuml;r Soul Ride</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>CD-Rom und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimale Systemanforderungen</strong><br /></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>500 MHz x86Prozessor<br /></td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>3D-Grafikkarte mit 16 MB Ram und korrekt installierten, funktionsf&auml;higen Treibern<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>65 MB</td>
+</tr>
+<tr>
+<td>Soundkarte<br /></td>
+<td>OSS kompatibel</td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Operating Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>

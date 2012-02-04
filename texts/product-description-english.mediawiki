@@ -1,0 +1,83 @@
+==Preview==
+<p>Take yourself to the edge in the most challenging and realistic snowboarding game to come to Linux. No visibility limits, real-world terrain, and physics-based gameplay. Find uncharted backcountry descents on extreme terrain in the California Sierras and Tuckerman Ravine in New Hampshire.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>Tired of riding someone else's version of a great mountain? Ready for the real thing? Soul Ride, Slingshot's first software title, is an extreme snowboarding game that invites you to test the limits in famous locations.</p>
+<p>Visit some of the toughest, most intense and spectacular snowboarding regions you can imagine. Using existing satellite world topography data, the Soul Ride engine immerses you in startlingly realistic environments, covering thousands and thousands of square miles.</p>
+<p><br />Using 3D rendering technology, you will experience visuals unlike anything you have seen before in a PC game. This is not a collection of linear tracks, this is an open-ended, virtual world which may be explored at your leisure, however you wish.&nbsp;<br /><br />Hit outrageous moves -- with a little practice you will be pulling varials, 1080's, rodeos and more off of backcountry heaven. Whether you are a freestyler or freerider you will find your groove with Soul Ride.&nbsp;<br /><br />Refine your skills to take on courses of continually increasing difficulty, or take a helicopter, drop yourself on a remote summit and blaze your own trail. Explore endless amounts of the most realistic terrain you'll see this side of your monitor. <br /><br /></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>0+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/soulride/">Demo for Soul Ride</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/soulride/">Updates for Soul Ride</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0" cellspacing="5" cellpadding="5">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>500 MHz x86 Processor<br /></td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Hardware Accelerated 3D Graphics card with 16 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>65 MB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4 x CD Rom<br /></td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.5 or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
